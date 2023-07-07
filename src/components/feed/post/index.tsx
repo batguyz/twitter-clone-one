@@ -1,7 +1,10 @@
 import PostType from '../../../schemas/post'
+import Image from '../../image'
 import Avatar from '../../avatar'
 import Actions from './actions'
 import Heading from './heading'
+
+
 
 type Props = {
   post: PostType
@@ -15,6 +18,7 @@ const Post = ({ post }: Props) => {
         <div>
           <Heading name={post.name} username={post.username} time={post.time} />
           <p>{post.caption}</p>
+          <Image src={post.postImage} alt={post.username} />
           <Actions
             replies={post.replies}
             retweets={post.retweets}

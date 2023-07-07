@@ -27,8 +27,8 @@ const Actions = () => {
           color="hover:bg-sky-100"
         />
       </div>
-      <button className="bg-sky-500 hover:bg-sky-400 hover-transition px-5 py-2 text-white font-bold rounded-full w-full mobile:w-auto">
-        Tweet
+      <button className="bg-black hover:bg-sky-400 hover-transition px-5 py-2 text-white font-bold rounded-full w-full mobile:w-auto">
+       What's up?
       </button>
     </>
   )

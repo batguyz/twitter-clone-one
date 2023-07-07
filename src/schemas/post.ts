@@ -8,6 +8,7 @@ type Post = {
   replies: number
   retweets: number
   likes: number
+  postImage: string
 }
 
 export default Post

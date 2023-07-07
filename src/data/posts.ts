@@ -13,6 +13,7 @@ const posts: Post[] = [
     replies: 32,
     retweets: 12,
     likes: 321,
+    postImage: 'https://images.unsplash.com/photo-1602489053809-4d912f6c8b4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '2',
@@ -26,6 +27,7 @@ const posts: Post[] = [
     replies: 2,
     retweets: 13,
     likes: 76,
+    postImage: 'https://images.unsplash.com/photo-1639337916963-e16623394e63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM2fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '3',
@@ -39,6 +41,7 @@ const posts: Post[] = [
     replies: 32,
     retweets: 62,
     likes: 85,
+    postImage: 'https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDU1fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '4',
@@ -52,6 +55,7 @@ const posts: Post[] = [
     replies: 3,
     retweets: 21,
     likes: 87,
+    postImage:'https://images.unsplash.com/photo-1616085258995-85bd229048d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDcxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '5',
@@ -65,6 +69,7 @@ const posts: Post[] = [
     replies: 23,
     retweets: 86,
     likes: 12,
+    postImage: 'https://images.unsplash.com/photo-1651986491787-b6a2fbbb5101?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDk0fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '6',
@@ -78,6 +83,7 @@ const posts: Post[] = [
     replies: 65,
     retweets: 87,
     likes: 151,
+    postImage: 'https://images.unsplash.com/photo-1652079129755-97b606e144ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIzN3x0b3dKWkZza3BHZ3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '7',
@@ -91,6 +97,7 @@ const posts: Post[] = [
     replies: 1,
     retweets: 67,
     likes: 103,
+    postImage:   'https://images.unsplash.com/photo-1652549752120-d9beb4c86bd4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwM3x0b3dKWkZza3BHZ3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '8',
@@ -104,6 +111,7 @@ const posts: Post[] = [
     replies: 51,
     retweets: 5,
     likes: 2,
+    postImage:  'https://images.unsplash.com/photo-1652437225670-f7969e367375?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1NXx0b3dKWkZza3BHZ3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '9',
@@ -117,6 +125,7 @@ const posts: Post[] = [
     replies: 2,
     retweets: 8,
     likes: 65,
+    postImage:  'https://images.unsplash.com/photo-1652226569981-00087ea729b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE2NHx0b3dKWkZza3BHZ3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
   },
   {
     id: '10',
@@ -130,6 +139,7 @@ const posts: Post[] = [
     replies: 862,
     retweets: 231,
     likes: 312,
+    postImage:  'https://images.unsplash.com/photo-1651850600560-64b7d701cd3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIwN3x0b3dKWkZza3BHZ3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
   },
 ]
 

@@ -30,37 +30,8 @@ const trends: Trend[] = [
     title: 'Extraordinary You',
     category: 'Trending in Philippines',
     tweetCount: '5,377k',
-  },
-  {
-    id: '6',
-    title: 'President-elect',
-    category: 'Trending in Philippines',
-    tweetCount: '167K',
-  },
-  {
-    id: '7',
-    title: 'Mandaluyong City',
-    category: 'rending in Philippines',
-    tweetCount: '581K',
-  },
-  {
-    id: '8',
-    title: 'Japan',
-    category: 'Music · Trending',
-    tweetCount: '34K',
-  },
-  {
-    id: '9',
-    title: 'raine',
-    category: 'Trending in Philippines',
-    tweetCount: '6,197k',
-  },
-  {
-    id: '10',
-    title: '#SB19',
-    category: 'Music · Trending',
-    tweetCount: '40.9K',
-  },
+  }
+ 
 ]
 
 export default trends
